@@ -1,2 +1,6 @@
 # computerroom-talker
-if you know your ip then you can use it!
+
+使用指南：
+首先找到命令行，在里面输入ipconfig，找到无线局域网适配器的IPv4地址，它就是你的服务器的IP地址啦！
+文件中的server使用的就是这个ip地址
+在client中登录时，需要先输入这个地址，再输入端口号（由服务器控制者决定），输入名字，就可以跟在同一个服务器中的其他朋友联机啦！
